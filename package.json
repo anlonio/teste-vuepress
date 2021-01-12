@@ -1,0 +1,19 @@
+{
+  "name": "Teste",
+  "version": "0.0.1",
+  "description": "Teste with my momorada",
+  "main": "index.js",
+  "authors": {
+    "name": "Antonho",
+    "email": "antonio.machado.dev@gmail.com"
+  },
+  "repository": "/Teste",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
